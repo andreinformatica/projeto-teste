@@ -10,9 +10,6 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <h1>Ola mundo </h1>
-        <?php
-        
-        ?>
+        <h1>Ola mundo </h1>        
     </body>
 </html>
